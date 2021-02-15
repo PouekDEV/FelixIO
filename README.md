@@ -1,6 +1,9 @@
 # FelixIO
 Easy to use program that reads text from image
-# If you want to run this uncompiled version you need
+# Compiled version
+There is no compiled version for now
+# Uncompiled Version
+If you want to run this uncompiled version you need
 > cv2
 
 > pytesseract
