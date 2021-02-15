@@ -9,9 +9,6 @@ If you want to run this uncompiled version you need
 
 > pytesseract
 
-and download Tesseract which you can get here https://mega.nz/file/qbgCXLZC#TA1C9bEEk2pqFop-svLC6HgzyQKRe7TTManNeM2_VSE (It's my link but don't worry)
-
-when you download it you need to put it in 
-`C:\\Program Files\`
+and download Tesseract which you can get here https://mega.nz/file/jaImEbZK#6ZaU2_0ip1GrK0MJECNOWk1wEQ1wSWqpszTfal4evtU (It's my link but don't worry)
 
 That's it you can now run `main.py` and enjoy it
