@@ -1,3 +1,4 @@
+![Icon](https://pouekdev.github.io/imagedatabase/felixIO.png)
 # FelixIO
 Easy to use program that reads text from image
 # Compiled version
