@@ -3,6 +3,8 @@
 Easy to use program that reads text from image
 # Compiled version
 https://github.com/PouekDEV/FelixIO/releases/tag/1.1
+# Warning!
+Please install FelixIO on SSD if you have one!
 # Uncompiled Version
 If you want to run this uncompiled version you need
 > cv2
